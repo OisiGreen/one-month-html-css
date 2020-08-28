@@ -23,10 +23,12 @@ body {
 	color: white;
 	padding: 42px;
 	width: 404px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
 	font-size: 4.5rem;
+	font-family: 'Great Vibes', cursive;
 }
 
 h2 {
