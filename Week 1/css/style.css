@@ -17,3 +17,29 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+#container {
+	background: #075221;
+	color: white;
+	padding: 42px;
+	width: 404px;
+}
+
+h1 {
+	font-size: 4.5rem;
+}
+
+h2 {
+	text-align: center;
+	background: white;
+	color: #075221;
+	border-radius: 20px;
+}
+
+a {
+	color:white;
+}
+
+a:visited {
+	color:white;
+}
